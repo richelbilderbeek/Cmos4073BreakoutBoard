@@ -1,6 +1,6 @@
 [project]
 site_name = "Cmos4073BreakoutBoard"
-site_url = "https://richelbilderbeek.github.io/cmos4073breakoutboard/"
+site_url = "https://richelbilderbeek.github.io/Cmos4073BreakoutBoard/"
 repo_url = "https://github.com/richelbilderbeek/Cmos4073BreakoutBoard"
 edit_uri = "blob/master/docs/"
 

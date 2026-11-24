@@ -2,7 +2,7 @@
 
 [![Create the Zensical website](https://github.com/richelbilderbeek/Cmos4073BreakoutBoard/actions/workflows/create_zensical_website.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/Cmos4073BreakoutBoard/actions/workflows/create_zensical_website.yaml)
 
-- [Go to the nicely rendered site](https://richelbilderbeek.github.io/cmos4073breakoutboard/)
+- [Go to the nicely rendered site](https://richelbilderbeek.github.io/Cmos4073BreakoutBoard/)
 
 The source of the website is in the [`docs`](docs) folder,
 with the start page at [`docs/README.md`](docs/README.md).
