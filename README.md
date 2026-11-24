@@ -1,5 +1,14 @@
 # Cmos4073BreakoutBoard
 
-Break-out board of the CMOS4073 (triple input AND) chip
+[![Create the Zensical website](https://github.com/richelbilderbeek/Cmos4073BreakoutBoard/actions/workflows/create_zensical_website.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/Cmos4073BreakoutBoard/actions/workflows/create_zensical_website.yaml)
 
-![Schematic](TripleAndPortCmos4073.png)
+- [Go to the nicely rendered site](https://richelbilderbeek.github.io/cmos4073breakoutboard/)
+
+The source of the website is in the [`docs`](docs) folder,
+with the start page at [`docs/README.md`](docs/README.md).
+
+To view the website locally, run:
+
+```bash
+./scripts/deploy_zensical_website_locally.sh
+```
